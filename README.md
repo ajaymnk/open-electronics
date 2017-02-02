@@ -34,6 +34,11 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 
 ## Softwares
 
+- Printed Circuit Board (PCB) Designing
+  - [Eagle](http://www.autodesk.com/products/eagle/overview)
+  - [EasyEDA](https://easyeda.com/)
+  - [KiCad](http://kicad-pcb.org/)
+
 ## Videos
 
 - [All About Circuits](http://www.allaboutcircuits.com/video-lectures/) - Free video lectures cover everything from basic electronics to semiconductor technology.
