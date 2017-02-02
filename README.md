@@ -6,6 +6,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 
 - [Books](#books)
 - [Communities](#communities)
+- [Softwares](#softwares)
 - [Videos](#videos)
 - [Websites](#websites)
 
@@ -30,6 +31,8 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 
 - [Hackaday.io](https://hackaday.io) - Hackaday.io is the world's largest collaborative hardware development community.
 - [Hackster](https://www.hackster.io) - Hackster is a community dedicated to learning hardware.
+
+## Softwares
 
 ## Videos
 
