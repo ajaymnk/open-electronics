@@ -7,7 +7,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Books](#books)
 - [Communities](#communities)
 - [Softwares](#softwares)
-- [Videos](#videos)
+- [Video Tutorials and Courses](#videos)
 - [Websites](#websites)
 
 
@@ -39,9 +39,13 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
   - [EasyEDA](https://easyeda.com/)
   - [KiCad](http://kicad-pcb.org/)
 
-## Videos
+## Video Tutorials and Courses
 
 - [All About Circuits](http://www.allaboutcircuits.com/video-lectures/) - Free video lectures cover everything from basic electronics to semiconductor technology.
+- Circuits and Electronics
+  - [Circuits and Electronics 1: Basic Circuit Analysis](https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x-0) - Learn techniques that are foundational to the design of microchips used in smartphones, computers, and the Internet.
+  - [Circuits and Electronics 2: Amplification, Speed, and Delay](https://www.edx.org/course/circuits-electronics-2-amplification-mitx-6-002-2x-0) - Learn how to speed up digital circuits and build amplifiers in the design of microchips used in smartphones, computers, and the Internet.
+  - [Circuits and Electronics 3: Applications](https://www.edx.org/course/circuits-electronics-3-applications-mitx-6-002-3x-0) - Learn about cool applications, op-amps and filters in the design of microchips used in smartphones, computers, and the internet.
 - [MAKE Presents](https://www.youtube.com/playlist?list=PL970BF3F6D77B12E8) - An in-depth look inside electronics and what makes it work.
 
 ## Websites
