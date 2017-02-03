@@ -55,6 +55,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Electronics Hub](http://www.electronicshub.org/) - This website provide tutorials for basic electronics and beginner to advanced projects.
 - [ElectronicsTutorials](http://www.electronics-tutorials.ws/) - The purpose of this site is to give students and beginners alike studying Electronics, good Basic Electronics Tutorials and information to help develop a knowledge and understanding of the subject of Electronics.
 - [Instructables](http://www.instructables.com/tag/type-id/category-technology/) - Instructables is a place that lets you explore, document, and share your DIY creations.
+- [Makezine](http://makezine.com/) - DIY Projects and Ideas for Makers.
 - [PighiXXX](http://www.pighixxx.com/test/) - This website is dedicated to all lovers of electronics and programming.
 - [SparkFun](https://learn.sparkfun.com/) - SparkFun is an online retail store that sells the bits and pieces to make your electronics projects possible. SparkFun also offers classes and online tutorials to help educate individuals in the wonderful world of embedded electronics.
 - [Technoblogy](http://www.technoblogy.com/) - Arduino and AVR projects
