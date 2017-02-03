@@ -10,6 +10,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Softwares](#softwares)
 - [Video Tutorials and Courses](#video-tutorials-and-courses)
 - [Websites](#websites)
+- [Miscellaneous](#miscellaneous)
 
 
 ## Books
@@ -66,3 +67,5 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [PighiXXX](http://www.pighixxx.com/test/) - This website is dedicated to all lovers of electronics and programming.
 - [SparkFun](https://learn.sparkfun.com/) - SparkFun is an online retail store that sells the bits and pieces to make your electronics projects possible. SparkFun also offers classes and online tutorials to help educate individuals in the wonderful world of embedded electronics.
 - [Technoblogy](http://www.technoblogy.com/) - Arduino and AVR projects
+
+## Miscellaneous
