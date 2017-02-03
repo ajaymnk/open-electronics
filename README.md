@@ -6,6 +6,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 
 - [Books](#books)
 - [Communities](#communities)
+- [Magazines](#magazines)
 - [Softwares](#softwares)
 - [Video Tutorials and Courses](#video-tutorials-and-courses)
 - [Websites](#websites)
@@ -31,6 +32,10 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 
 - [Hackaday.io](https://hackaday.io) - Hackaday.io is the world's largest collaborative hardware development community.
 - [Hackster](https://www.hackster.io) - Hackster is a community dedicated to learning hardware.
+
+## Magazines
+
+- [Electronics For You](https://www.magzter.com/IN/EFY-Enterprises-Pvt-Ltd/Electronics-For-You/Technology/) -  These magazines keep the electronics fraternity updated with the latest technical knowledge about new technologies, semiconductors, components, systems, tools and techniques. It regularly features industry experts and top-shots within its pages.
 
 ## Softwares
 
