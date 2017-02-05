@@ -40,6 +40,12 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 
 ## Softwares
 
+- Circuit Simulation
+  - [LTspice](http://www.linear.com/designtools/software/#LTspice)
+  - [Multisim](http://www.ni.com/multisim/try/)
+- For Microcontrollers
+  - [AVRDUDE](http://www.nongnu.org/avrdude/)
+  - [WinAVR](http://winavr.sourceforge.net/)
 - Printed Circuit Board (PCB) Designing
   - [Eagle](http://www.autodesk.com/products/eagle/overview)
   - [EasyEDA](https://easyeda.com/)
