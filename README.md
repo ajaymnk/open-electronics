@@ -75,3 +75,4 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Technoblogy](http://www.technoblogy.com/) - Arduino and AVR projects
 
 ## Miscellaneous
+ - [The Ultimate Guide to bootstrapping hardware startups](www.wylinka.org.br/deep/wp-content/uploads/2015/07/The-Ultimate-Guide-To-Bootstrapping-A-Hardware-Startup.pdf)
