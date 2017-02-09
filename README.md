@@ -47,6 +47,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
   - [AVRDUDE](http://www.nongnu.org/avrdude/)
   - [WinAVR](http://winavr.sourceforge.net/)
 - Printed Circuit Board (PCB) Designing
+  - [CircuitMaker](https://circuitmaker.com)
   - [Eagle](http://www.autodesk.com/products/eagle/overview)
   - [EasyEDA](https://easyeda.com/)
   - [KiCad](http://kicad-pcb.org/)
