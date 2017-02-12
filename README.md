@@ -71,6 +71,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Electronics For You](http://electronicsforu.com/) - If It's Electronics, It's Here.
 - [Electronics Hub](http://www.electronicshub.org/) - This website provide tutorials for basic electronics and beginner to advanced projects.
 - [ElectronicsTutorials](http://www.electronics-tutorials.ws/) - The purpose of this site is to give students and beginners alike studying Electronics, good Basic Electronics Tutorials and information to help develop a knowledge and understanding of the subject of Electronics.
+- [Gadgetronicx](http://www.gadgetronicx.com) - Gadgetronicx is an educational website based on Electronics and Embedded Systems.
 - [Instructables](http://www.instructables.com/tag/type-id/category-technology/) - Instructables is a place that lets you explore, document, and share your DIY creations.
 - [Makezine](http://makezine.com/) - DIY Projects and Ideas for Makers.
 - [PighiXXX](http://www.pighixxx.com/test/) - This website is dedicated to all lovers of electronics and programming.
