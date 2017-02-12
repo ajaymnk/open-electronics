@@ -50,7 +50,9 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
   - [CircuitMaker](https://circuitmaker.com)
   - [Eagle](http://www.autodesk.com/products/eagle/overview)
   - [EasyEDA](https://easyeda.com/)
+  - [Fritzing](http://fritzing.org/home/)
   - [KiCad](http://kicad-pcb.org/)
+  - [Upverter](https://upverter.com/)
 
 ## Video Tutorials and Courses
 
