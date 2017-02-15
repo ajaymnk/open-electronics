@@ -41,6 +41,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 ## Softwares
 
 - Circuit Simulation
+  - [CircuitJS](http://www.falstad.com/circuit/)
   - [LTspice](http://www.linear.com/designtools/software/#LTspice)
   - [Multisim](http://www.ni.com/multisim/try/)
 - For Microcontrollers
