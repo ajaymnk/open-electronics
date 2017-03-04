@@ -19,6 +19,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [The Art of Electronics](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266) by Paul Horowitz and Winfield Hill
 - [Make: Electronics](https://www.amazon.com/Make-Electronics-Discovery-Charles-Platt/dp/0596153740) by Charles Platt
 - [Make: More Electronics](https://www.amazon.com/Make-Electronics-Journey-Amplifiers-Randomicity/dp/1449344046) by Charles Platt
+- [Practical Electronics for Inventors](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541) by Paul Scherz and Simon Monk 
 - Encyclopedia of Electronic Components Series by Charles Platt
   - [Volume 1 - Resistors, Capacitors, Inductors, Switches, Encoders, Relays, Transistors](https://www.amazon.com/Encyclopedia-Electronic-Components-Capacitors-Transistors/dp/1449333893)
   - [Volume 2 - LEDs, LCDs, Audio, Thyristors, Digital Logic, and Amplification](https://www.amazon.com/Encyclopedia-Electronic-Components-Thyristors-Amplification/dp/1449334180)
