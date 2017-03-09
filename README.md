@@ -84,6 +84,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Explore Embedded](https://www.exploreembedded.com/wiki/Main_Page) - Tutorials on various Microcontrollers and RTOS
 - [Freeduino](http://www.freeduino.org/) - The World Famous Index of Arduino & Freeduino Knowledge
 - [Gadgetronicx](http://www.gadgetronicx.com) - Gadgetronicx is an educational website based on Electronics and Embedded Systems.
+- [Hackerspaces](https://wiki.hackerspaces.org/Hackerspaces) - Find Hackerspaces around you.
 - [Instructables](http://www.instructables.com/tag/type-id/category-technology/) - Instructables is a place that lets you explore, document, and share your DIY creations.
 - [Makezine](http://makezine.com/) - DIY Projects and Ideas for Makers.
 - [maxEmbedded](http://maxembedded.com) - Guide to robotics, embedded systems and computer vision.
