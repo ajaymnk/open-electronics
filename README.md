@@ -1,4 +1,4 @@
-# Open Electronics [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+# Open Electronics [![Build Status](https://travis-ci.org/intajay/open-electronics.svg?branch=master)](https://travis-ci.org/intajay/open-electronics) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 Great Resources for Electronics Enthusiasts and Hardware Hackers
 
