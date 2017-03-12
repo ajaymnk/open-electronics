@@ -45,7 +45,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
   - [CircuitJS](http://www.falstad.com/circuit/)
   - [LTspice](http://www.linear.com/designtools/software/#LTspice)
   - [Multisim](http://www.ni.com/multisim/try/)
-  - [Caneda](http://www.caneda.org/)
+  - [Caneda](http://caneda.org/)
 - For Microcontrollers
   - [AVRDUDE](http://www.nongnu.org/avrdude/)
   - [WinAVR](http://winavr.sourceforge.net/)
@@ -61,7 +61,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 
 - [AddOhms](https://www.youtube.com/user/AddOhms) - Electronics Tutorials
 - [Afrotechmods](https://www.youtube.com/user/Afrotechmods) - Straight to the point electronics tutorial videos with practical examples.
-- [All About Circuits](http://www.allaboutcircuits.com/video-lectures/) - Free video lectures cover everything from basic electronics to semiconductor technology.
+- [All About Circuits](https://www.allaboutcircuits.com/video-lectures/) - Free video lectures cover everything from basic electronics to semiconductor technology.
 - Circuits and Electronics
   - [Circuits and Electronics 1: Basic Circuit Analysis](https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x-0) - Learn techniques that are foundational to the design of microchips used in smartphones, computers, and the Internet.
   - [Circuits and Electronics 2: Amplification, Speed, and Delay](https://www.edx.org/course/circuits-electronics-2-amplification-mitx-6-002-2x-0) - Learn how to speed up digital circuits and build amplifiers in the design of microchips used in smartphones, computers, and the Internet.
@@ -75,7 +75,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 ## Websites
 
 - [Adafruit](https://learn.adafruit.com/) - Unique & fun DIY electronics and kits.
-- [All About Circuits](http://www.allaboutcircuits.com/textbook/) - This website provides a series of volumes covering electricity and electronics. The information provided is great for students, makers, and professionals who are looking to refresh or expand their knowledge in this field.
+- [All About Circuits](https://www.allaboutcircuits.com/textbook/) - This website provides a series of volumes covering electricity and electronics. The information provided is great for students, makers, and professionals who are looking to refresh or expand their knowledge in this field.
 - [CircuitsToday](http://www.circuitstoday.com/) - Awesome and useful content in the Electronics Engineering
 - [DangerousPrototypes](http://dangerousprototypes.com/blog/) - Open Source Hardware Projects.
 - [Electronics For You](http://electronicsforu.com/) - If It's Electronics, It's Here.
@@ -95,4 +95,4 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 
 ## Miscellaneous
 - [The History of Electronics](http://www.circuitstoday.com/wp-content/uploads/2012/03/History-of-Electronics.jpg)
-- [The Ultimate Guide to bootstrapping hardware startups](http://www.wylinka.org.br/deep/wp-content/uploads/2015/07/The-Ultimate-Guide-To-Bootstrapping-A-Hardware-Startup.pdf)
+- [The Ultimate Guide to bootstrapping hardware startups](https://thenextweb.com/entrepreneur/2014/06/18/ultimate-guide-bootstrapping-hardware-startups/)
