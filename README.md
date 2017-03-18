@@ -40,6 +40,10 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 
 - [Electronics For You](https://www.magzter.com/IN/EFY-Enterprises-Pvt-Ltd/Electronics-For-You/Technology/) -  These magazines keep the electronics fraternity updated with the latest technical knowledge about new technologies, semiconductors, components, systems, tools and techniques. It regularly features industry experts and top-shots within its pages.
 
+## Podcasts
+
+- [The Amp Hour Electronics](http://theamphour.com/) - It is the worlds largest and most respected electronics oriented radio show. Discussions range from hobbyist electronics to the state of the electronics industry, components, circuit design, and general on and off-topic rants.
+
 ## Softwares
 
 - Circuit Simulation
