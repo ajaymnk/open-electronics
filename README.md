@@ -7,6 +7,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Books](#books)
 - [Communities](#communities)
 - [Magazines](#magazines)
+- [Podcasts](#podcasts)
 - [Softwares](#softwares)
 - [Video Tutorials and Courses](#video-tutorials-and-courses)
 - [Websites](#websites)
