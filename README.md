@@ -74,7 +74,8 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
   - [Circuits and Electronics 3: Applications](https://www.edx.org/course/circuits-electronics-3-applications-mitx-6-002-3x-0) - Learn about cool applications, op-amps and filters in the design of microchips used in smartphones, computers, and the internet.
 - [Collin's Lab](https://www.youtube.com/playlist?list=PLDE23FAC8A681FA46) - Collin Cunningham shares his adventures in science, sound, and electronics.
 - [EEVblog](https://www.youtube.com/user/EEVblog) - Electronics Engineering Video Blog
-- [GreatScott!](https://www.youtube.com/user/greatscottlab) - Awesome Electronics Tutorials, Projects and How To´s
+- [GreatScott!](https://www.youtube.com/user/greatscottlab) - Awesome Electronics Tutorials, Projects and How To´s.
+- [humanHardDrive](https://www.youtube.com/user/humanHardDrive) - Videos on electronics, microcontrollers and programming.
 - [MAKE Presents](https://www.youtube.com/playlist?list=PL970BF3F6D77B12E8) - An in-depth look inside electronics and what makes it work.
 - [Patrick Hood-Daniel](https://www.youtube.com/user/anajonesr) - CNC, automated fabrication, electronics and much more.
 
