@@ -89,6 +89,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Electronics For You](http://electronicsforu.com/) - If It's Electronics, It's Here.
 - [Electronics Hub](http://www.electronicshub.org/) - This website provide tutorials for basic electronics and beginner to advanced projects.
 - [ElectronicsTutorials](http://www.electronics-tutorials.ws/) - The purpose of this site is to give students and beginners alike studying Electronics, good Basic Electronics Tutorials and information to help develop a knowledge and understanding of the subject of Electronics.
+- [ElProCus](https://www.elprocus.com/) - The Budding Electronic Engineers' Knowledge Space.
 - [Embeddedgurus](http://embeddedgurus.com/) - Experts on Embedded Softwar
 - [Explore Embedded](https://www.exploreembedded.com/wiki/Main_Page) - Tutorials on various Microcontrollers and RTOS
 - [Freeduino](http://www.freeduino.org/) - The World Famous Index of Arduino & Freeduino Knowledge
