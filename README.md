@@ -30,7 +30,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
   - [Volume 2 - Science and Communication Circuits & Projects](https://www.amazon.com/Science-Communication-Circuits-Projects-Forrest/dp/0945053320)
   - [Volume 3 - Electronic Sensor Circuits & Projects](https://www.amazon.com/Electronic-Circuits-Projects-Engineers-Notebook/dp/0945053312)
   - [Volume 4 - Electronic Formulas, Symbols & Circuits](https://www.amazon.com/Electronic-Formulas-Symbols-Circuits-Forrest/dp/0945053304)
-- [Zero to Maker: Learn (Just Enough) to Make (Just About) Anything](https://www.amazon.com/Zero-Maker-David-Lang/dp/1449356435) by David Lang
+- [Zero to Maker: Learn (Just Enough) to Make (Just About) Anything](https://www.amazon.com/Zero-Maker-Learn-Enough-Anything/dp/1449356435) by David Lang
 
 ## Communities
 
