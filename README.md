@@ -60,7 +60,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
   - [WinAVR](http://winavr.sourceforge.net/)
 - Printed Circuit Board (PCB) Designing
   - [CircuitMaker](https://circuitmaker.com)
-  - [Eagle](http://www.autodesk.com/products/eagle/overview)
+  - [Eagle](https://www.autodesk.com/products/eagle/overview)
   - [EasyEDA](https://easyeda.com/)
   - [Fritzing](http://fritzing.org/home/)
   - [KiCad](http://kicad-pcb.org/)
