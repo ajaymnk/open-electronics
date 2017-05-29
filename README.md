@@ -46,6 +46,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 ## Podcasts
 
 - [The Amp Hour Electronics](http://theamphour.com/) - It is the worlds largest and most respected electronics oriented radio show. Discussions range from hobbyist electronics to the state of the electronics industry, components, circuit design, and general on and off-topic rants.
+- [The Hardware Entrepreneur](https://www.thehardwareentrepreneur.com/) - Learn directly from hardware entrepreneurs.
 - [The Spark Gap](http://thesparkgap.net/) - A podcast discussing the nuts and bolts of embedded electronics, the systems that use them, and the community that surrounds them.
 
 ## Softwares
