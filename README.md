@@ -103,6 +103,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Makezine](http://makezine.com/) - DIY Projects and Ideas for Makers.
 - [maxEmbedded](http://maxembedded.com) - Guide to robotics, embedded systems and computer vision.
 - [MicroDigitalEd](http://www.microdigitaled.com/) - All about Microcontrollers and Microprocessors.
+- [MySensors](https://www.mysensors.org/) - An open source hardware and software community focusing on DIY, Home automation and Internet of Things.
 - [PighiXXX](http://www.pighixxx.com/test/) - This website is dedicated to all lovers of electronics and programming.
 - [RobotShop](http://www.robotshop.com/letsmakerobots/) - Let's Make Robots
 - [SparkFun](https://learn.sparkfun.com/) - SparkFun is an online retail store that sells the bits and pieces to make your electronics projects possible. SparkFun also offers classes and online tutorials to help educate individuals in the wonderful world of embedded electronics.
