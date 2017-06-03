@@ -14,6 +14,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Miscellaneous](#miscellaneous)
 - Other Great Resources
   - [awesome-electronics](https://github.com/monostable/awesome-electronics)
+  - [Open Circuits](http://www.opencircuits.com)
 
 ## Books
 
