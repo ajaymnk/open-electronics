@@ -88,6 +88,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 
 - [Adafruit](https://learn.adafruit.com/) - Unique & fun DIY electronics and kits.
 - [All About Circuits](https://www.allaboutcircuits.com/textbook/) - This website provides a series of volumes covering electricity and electronics. The information provided is great for students, makers, and professionals who are looking to refresh or expand their knowledge in this field.
+- [BuildElectronicCircuits](https://www.build-electronic-circuits.com/) - Learn Electronic circuits, PCB Design, Soldering and more.
 - [CircuitsToday](http://www.circuitstoday.com/) - Awesome and useful content in the Electronics Engineering
 - [Crowd Supply](https://www.crowdsupply.com/) - Crowdfunding platform for Hardwares.
 - [DangerousPrototypes](http://dangerousprototypes.com/blog/) - Open Source Hardware Projects.
