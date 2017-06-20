@@ -66,6 +66,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
   - [EasyEDA](https://easyeda.com/)
   - [Fritzing](http://fritzing.org/home/)
   - [KiCad](http://kicad-pcb.org/)
+  - [SnapEDA](https://www.snapeda.com/) - Download free symbols & footprints for millions of electronic components
   - [Upverter](https://upverter.com/)
 
 ## Video Tutorials and Courses
