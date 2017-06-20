@@ -54,8 +54,10 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 
 - Circuit Simulation
   - [CircuitJS](http://www.falstad.com/circuit/)
+  - [CircuitLab](https://www.circuitlab.com/editor/)
   - [LTspice](http://www.linear.com/designtools/software/#LTspice)
   - [Multisim](http://www.ni.com/multisim/try/)
+  - [PartSim](http://www.partsim.com/simulator)
   - [Caneda](http://caneda.org/)
 - For Microcontrollers
   - [AVRDUDE](http://www.nongnu.org/avrdude/)
