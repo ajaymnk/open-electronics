@@ -37,6 +37,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 
 ## Communities
 
+- [Instructables](http://www.instructables.com/tag/type-id/category-technology/) - Instructables is a place that lets you explore, document, and share your creations.
 - [Hackaday.io](https://hackaday.io) - Hackaday.io is the world's largest collaborative hardware development community.
 - [Hackster](https://www.hackster.io) - Hackster is a community dedicated to learning hardware.
 
