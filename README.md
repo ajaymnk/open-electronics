@@ -115,6 +115,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Predictable Designs](http://predictabledesigns.com/teblog/) - Helping entrepreneurs, startups, makers, engineers, & small companies develop electronic hardware products.
 - [RobotShop](http://www.robotshop.com/letsmakerobots/) - Let's Make Robots
 - [SparkFun](https://learn.sparkfun.com/) - SparkFun is an online retail store that sells the bits and pieces to make your electronics projects possible. SparkFun also offers classes and online tutorials to help educate individuals in the wonderful world of embedded electronics.
+- [Spinning Numbers](http://spinningnumbers.org/) - Learn the concepts of electrical engineering.
 - [Technoblogy](http://www.technoblogy.com/) - Arduino and AVR projects
 - [Tindle](https://www.tindie.com/) - Buy awesome things directly from makers.
 
