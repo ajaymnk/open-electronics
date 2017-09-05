@@ -87,6 +87,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [FreeVideoLectures/Electronics](http://freevideolectures.com/Subject/Electronics) - Free Video Lectures from top Universities.
 - [GreatScott!](https://www.youtube.com/user/greatscottlab) - Awesome Electronics Tutorials, Projects and How To´s.
 - [humanHardDrive](https://www.youtube.com/user/humanHardDrive) - Videos on electronics, microcontrollers and programming.
+- [Khan Academy/electrical-engineering](https://www.khanacademy.org/science/electrical-engineering) - Learn about electricity, circuit theory, and introductory electronics.
 - [MAKE Presents](https://www.youtube.com/playlist?list=PL970BF3F6D77B12E8) - An in-depth look inside electronics and what makes it work.
 - [Patrick Hood-Daniel](https://www.youtube.com/user/anajonesr) - CNC, automated fabrication, electronics and much more.
 
