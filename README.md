@@ -121,6 +121,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Spinning Numbers](http://spinningnumbers.org/) - Learn the concepts of electrical engineering.
 - [Technoblogy](http://www.technoblogy.com/) - Arduino and AVR projects
 - [Tindle](https://www.tindie.com/) - Buy awesome things directly from makers.
+- [Williamson Labs](http://www.williamson-labs.com/) - Electronics Made Easy.
 
 ## Miscellaneous
 - [The History of Electronics](http://www.circuitstoday.com/wp-content/uploads/2012/03/History-of-Electronics.jpg)
