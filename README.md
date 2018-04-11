@@ -79,6 +79,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [AddOhms](https://www.youtube.com/user/AddOhms) - Electronics Tutorials
 - [Afrotechmods](https://www.youtube.com/user/Afrotechmods) - Straight to the point electronics tutorial videos with practical examples.
 - [All About Circuits](https://www.allaboutcircuits.com/video-lectures/) - Free video lectures cover everything from basic electronics to semiconductor technology.
+- [Ben Eater](https://www.youtube.com/user/eaterbc) - Videos about electronics, computer architecture, networking, and various other technical subjects.
 - Circuits and Electronics
   - [Circuits and Electronics 1: Basic Circuit Analysis](https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x-0) - Learn techniques that are foundational to the design of microchips used in smartphones, computers, and the Internet.
   - [Circuits and Electronics 2: Amplification, Speed, and Delay](https://www.edx.org/course/circuits-electronics-2-amplification-mitx-6-002-2x-0) - Learn how to speed up digital circuits and build amplifiers in the design of microchips used in smartphones, computers, and the Internet.
