@@ -42,6 +42,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Hackaday.io](https://hackaday.io) - Hackaday.io is the world's largest collaborative hardware development community.
 - [Hackster](https://www.hackster.io) - Hackster is a community dedicated to learning hardware.
 - [Maker.pro](https://maker.pro) - Maker.pro is a place for makers to design and collaborate with one another, with the goal to take their product to market.
+- [Maker.io](https://www.digikey.com/en/maker) - Maker.io is a hardware development community powered by **Digi-Key Electronics**.
 
 ## Magazines
 
