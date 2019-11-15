@@ -69,7 +69,6 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
   - [Xyce](https://xyce.sandia.gov)
   - [Gnucap](http://www.gnucap.org)
   - [Ngspice](http://ngspice.sourceforge.net)
-  
 - For Microcontrollers
   - [AVRDUDE](http://www.nongnu.org/avrdude/)
   - [WinAVR](http://winavr.sourceforge.net/)
