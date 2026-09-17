@@ -1,0 +1,42 @@
+name: Links
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: links-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  link-check:
+    name: Check links in README.md
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+
+      - name: Install awesome_bot
+        run: gem install awesome_bot
+
+      # White listed URLs are checked and reported, but never fail the build.
+      # They block bot/CI traffic (403), are slow/flaky, or are status badges
+      # (GitHub returns 404 for badge.svg until the workflow is registered).
+      # Genuinely broken content links still fail.
+      - name: Validate links
+        run: >
+          awesome_bot README.md
+          --allow-redirect
+          --allow-timeout
+          --skip-save-results
+          --white-list badge.svg,electronics-tutorials.ws,robotshop.com,pighixxx.com,magzter.com,partsim.com,autodesk.com,allaboutcircuits.com,tindie.com,digikey.com

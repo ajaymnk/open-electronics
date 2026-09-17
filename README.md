@@ -1,4 +1,4 @@
-# Open Electronics [![Build Status](https://travis-ci.org/intajay/open-electronics.svg?branch=master)](https://travis-ci.org/intajay/open-electronics) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+# Open Electronics [![Links](https://github.com/ajaymnk/open-electronics/actions/workflows/links.yml/badge.svg)](https://github.com/ajaymnk/open-electronics/actions/workflows/links.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 Great Resources for Electronics Enthusiasts and Hardware Hackers
 
@@ -80,7 +80,6 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
   - [KiCad](http://kicad.org/)
   - [Salitronic Gerber Analyzer](https://salitronic.com/gerber_analyzer) - Free in-browser Gerber, ODB++ and IPC-2581 viewer with DRC, layer diff and pick-and-place. No install or sign-up.
   - [SnapEDA](https://www.snapeda.com/) - Download free symbols & footprints for millions of electronic components
-  - [Upverter](https://upverter.com/)
 
 ## Video Tutorials and Courses
 
@@ -88,10 +87,6 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Afrotechmods](https://www.youtube.com/user/Afrotechmods) - Straight to the point electronics tutorial videos with practical examples.
 - [All About Circuits](https://www.allaboutcircuits.com/video-lectures/) - Free video lectures cover everything from basic electronics to semiconductor technology.
 - [Ben Eater](https://www.youtube.com/user/eaterbc) - Videos about electronics, computer architecture, networking, and various other technical subjects.
-- Circuits and Electronics
-  - [Circuits and Electronics 1: Basic Circuit Analysis](https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x-0) - Learn techniques that are foundational to the design of microchips used in smartphones, computers, and the Internet.
-  - [Circuits and Electronics 2: Amplification, Speed, and Delay](https://www.edx.org/course/circuits-electronics-2-amplification-mitx-6-002-2x-0) - Learn how to speed up digital circuits and build amplifiers in the design of microchips used in smartphones, computers, and the Internet.
-  - [Circuits and Electronics 3: Applications](https://www.edx.org/course/circuits-electronics-3-applications-mitx-6-002-3x-0) - Learn about cool applications, op-amps and filters in the design of microchips used in smartphones, computers, and the internet.
 - [Collin's Lab](https://www.youtube.com/playlist?list=PLDE23FAC8A681FA46) - Collin Cunningham shares his adventures in science, sound, and electronics.
 - [EEVblog](https://www.youtube.com/user/EEVblog) - Electronics Engineering Video Blog
 - [FreeVideoLectures/Electronics](http://freevideolectures.com/Subject/Electronics) - Free Video Lectures from top Universities.
@@ -111,7 +106,6 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Crowd Supply](https://www.crowdsupply.com/) - Crowdfunding platform for Hardwares.
 - [DangerousPrototypes](http://dangerousprototypes.com/blog/) - Open Source Hardware Projects.
 - [Electronics For You](http://electronicsforu.com/) - If It's Electronics, It's Here.
-- [Electronics Hub](http://www.electronicshub.org/) - This website provide tutorials for basic electronics and beginner to advanced projects.
 - [ElectronicsTutorials](http://www.electronics-tutorials.ws/) - The purpose of this site is to give students and beginners alike studying Electronics, good Basic Electronics Tutorials and information to help develop a knowledge and understanding of the subject of Electronics.
 - [ElProCus](https://www.elprocus.com/) - The Budding Electronic Engineers' Knowledge Space.
 - [Embeddedgurus](http://embeddedgurus.com/) - Experts on Embedded Softwar
