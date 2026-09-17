@@ -39,4 +39,4 @@ jobs:
           --allow-redirect
           --allow-timeout
           --skip-save-results
-          --white-list badge.svg,electronics-tutorials.ws,robotshop.com,pighixxx.com,magzter.com,partsim.com,autodesk.com,allaboutcircuits.com,tindie.com,digikey.com
+          --white-list badge.svg,electronics-tutorials.ws,robotshop.com,pighixxx.com,magzter.com,partsim.com,autodesk.com,allaboutcircuits.com,tindie.com,digikey.com,maker.pro
