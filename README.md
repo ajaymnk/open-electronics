@@ -78,6 +78,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
   - [EasyEDA](https://easyeda.com/)
   - [Fritzing](http://fritzing.org/home/)
   - [KiCad](http://kicad.org/)
+  - [Salitronic Gerber Analyzer](https://salitronic.com/gerber_analyzer) - Free in-browser Gerber, ODB++ and IPC-2581 viewer with DRC, layer diff and pick-and-place. No install or sign-up.
   - [SnapEDA](https://www.snapeda.com/) - Download free symbols & footprints for millions of electronic components
   - [Upverter](https://upverter.com/)
 
