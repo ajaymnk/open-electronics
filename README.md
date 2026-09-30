@@ -57,7 +57,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 ## Softwares
 
 - Circuit Simulation
-  - [CircuitJS](http://www.falstad.com/circuit/)
+  - [Falstad](http://www.falstad.com/circuit/)
   - [CircuitLab](https://www.circuitlab.com/editor/)
   - [Circuit Sandbox](http://spinningnumbers.org/circuit-sandbox)
   - [LTspice](http://www.linear.com/designtools/software/#LTspice)
